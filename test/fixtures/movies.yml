@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  year: 1
+  title: MyString
+  imdb: MyString
+  binary: MyString
+  detail: MyString
+  director_id: 1
+
+two:
+  year: 1
+  title: MyString
+  imdb: MyString
+  binary: MyString
+  detail: MyString
+  director_id: 1
