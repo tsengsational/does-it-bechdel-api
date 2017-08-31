@@ -70,7 +70,7 @@ class Api::V1::MoviesController < ApplicationController
     render json: {
       movie: @movie,
       actors: @movie.actors,
-      director:@movie.director
+      director: @movie.director
     }
   end
 
