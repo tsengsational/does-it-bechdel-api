@@ -1,24 +1,5 @@
-# README
+# Does It Bechdel API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby-based API that serves as the backend of Does It Bechdel, a data visualization tool that exposes sexism in Hollywood by using a dataset from FiveThirtyEight of over 1,700 movies. I used the Open Movie Database (OMdB) to expand the information in the data set by associating actors and directors with the films.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The front-end react-based single-page application can be found [here](https://github.com/tsengsational/does-it-bechdel-client).
